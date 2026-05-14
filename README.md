@@ -32,9 +32,10 @@
 name: Naufal
 role: Mobile App Developer
 location: Indonesia 🇮🇩
-education: SMK - Rekayasa Perangkat Lunak (RPL)
+education: Mahasiswa - UPNVJT (Universitas Pembangunan Nasional Veteran Jawa Timur)
+previous: Alumni SMK - Rekayasa Perangkat Lunak (RPL)
 
-currently_working_on: "UKK Project - e-Library System"
+currently_working_on: "Quizyfy - Online Exam Platform (Flutter + Laravel)"
 currently_learning: ["Flutter Advanced", "Clean Architecture", "REST API Design"]
 
 fun_fact: "I turn caffeine into beautiful mobile interfaces ☕ → 📱"
@@ -99,12 +100,12 @@ fun_fact: "I turn caffeine into beautiful mobile interfaces ☕ → 📱"
 
 <div align="center">
 
-<a href="https://github.com/Naufall18/paket_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=paket_4&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+<a href="https://github.com/Naufall18/Quizify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizify&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Naufall18/UKK4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=UKK4&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+<a href="https://github.com/Naufall18/paket_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=paket_4&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 
 </div>
