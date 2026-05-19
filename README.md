@@ -100,8 +100,8 @@ fun_fact: "I turn caffeine into beautiful mobile interfaces ☕ → 📱"
 
 <div align="center">
 
-<a href="https://github.com/Naufall18/Quizify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizify&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+<a href="https://github.com/Naufall18/Quizyfy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizyfy&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Naufall18/paket_4">
