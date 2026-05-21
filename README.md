@@ -30,15 +30,22 @@
 
 ```yaml
 name: Naufal
-role: Mobile App Developer
+role: Junior Mobile Developer
 location: Indonesia 🇮🇩
-education: Mahasiswa - UPNVJT (Universitas Pembangunan Nasional Veteran Jawa Timur)
-previous: Alumni SMK - Rekayasa Perangkat Lunak (RPL)
+education: SMK - Rekayasa Perangkat Lunak (RPL)
 
-currently_working_on: "Quizyfy - Online Exam Platform (Flutter + Laravel)"
-currently_learning: ["Flutter Advanced", "Clean Architecture", "REST API Design"]
+currently_building: "Quizyfy — Online Exam Platform (Flutter + Laravel)"
+currently_learning:
+  - Flutter GetX Clean Architecture
+  - Laravel REST API & Sanctum Auth
+  - Fullstack Mobile Development
 
-fun_fact: "I turn caffeine into beautiful mobile interfaces ☕ → 📱"
+strengths:
+  - Flutter state management with GetX
+  - REST API integration with Dio
+  - Building real-world apps from scratch
+
+open_to: "Internship & Junior Developer opportunities"
 ```
 
 <br/>
@@ -104,8 +111,8 @@ fun_fact: "I turn caffeine into beautiful mobile interfaces ☕ → 📱"
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizyfy&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Naufall18/paket_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=paket_4&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+<a href="https://github.com/Naufall18/Quizyfy-Backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizyfy-Backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 
 </div>
