@@ -1,150 +1,192 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d4ff&height=220&section=header&text=Naufal&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Laravel&descSize=18&descAlignY=55&descAlign=50" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naufal&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Laravel&descSize=16&descAlignY=55&descAlign=50" />
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=%F0%9F%93%B1+Building+Beautiful+Mobile+Apps;%E2%9A%A1+Flutter+%2B+Dart+%2B+Laravel;%F0%9F%8E%AF+Clean+Architecture+Enthusiast" alt="Typing SVG" />
-  </a>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Premium+Mobile+Experiences+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+Laravel+%7C+Clean+Architecture" alt="Typing SVG" />
+</a>
 
-  <br/><br/>
+<br/>
 
-  <!-- SOCIAL BADGES -->
-  <a href="https://github.com/Naufall18?tab=followers">
-    <img src="https://img.shields.io/github/followers/Naufall18?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Naufall18?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-9-blue?style=flat&logo=github" alt="Repos" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Naufall18&label=Profile+Views&color=00d4ff&style=flat" alt="Profile Views" />
+<!-- BADGES -->
+[![GitHub followers](https://img.shields.io/github/followers/Naufall18?logo=github&style=for-the-badge&color=302b63&labelColor=0f0c29)](https://github.com/Naufall18?tab=followers)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Naufall18&label=Profile+Views&color=302b63&style=for-the-badge)
 
 </div>
 
-<br/>
+---
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+### 🧑‍💻 About Me
 
-```yaml
-name: Naufal
-role: Junior Mobile Developer
-location: Indonesia 🇮🇩
-education: SMK - Rekayasa Perangkat Lunak (RPL)
-
-currently_building: "Quizyfy — Online Exam Platform (Flutter + Laravel)"
-currently_learning:
-  - Flutter GetX Clean Architecture
-  - Laravel REST API & Sanctum Auth
-  - Fullstack Mobile Development
-
-strengths:
-  - Flutter state management with GetX
-  - REST API integration with Dio
-  - Building real-world apps from scratch
-
-open_to: "Internship & Junior Developer opportunities"
+```ts
+const naufal = {
+    role: "Fullstack Mobile Developer",
+    location: "Indonesia 🇮🇩",
+    education: "SMK — Rekayasa Perangkat Lunak (RPL)",
+    
+    currentlyBuilding: [
+        "LuxeMart — Premium Multi-Vendor Marketplace",
+        "Quizyfy — Online Exam Platform"
+    ],
+    
+    techStack: {
+        mobile:   ["Flutter", "Dart", "Riverpod", "GetX", "Go Router"],
+        backend:  ["Laravel", "PHP", "REST API", "Sanctum"],
+        database: ["MySQL", "Firebase"],
+        tools:    ["Git", "Figma", "Postman", "VS Code"]
+    },
+    
+    architecture: ["Clean Architecture", "MVVM", "Repository Pattern"],
+    
+    motto: "First, solve the problem. Then, write the code."
+};
 ```
 
-<br/>
+---
 
-<!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+### ⚡ Tech Stack
 
-<table align="center">
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+<table>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br/><b>Flutter</b>
+<td width="50%">
+
+<h3 align="center">LuxeMart — Marketplace</h3>
+<p align="center">
+  <a href="https://github.com/Naufall18/luxemart-mobile">
+    <img src="https://img.shields.io/badge/Mobile_(Flutter)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naufall18/luxemart-backend">
+    <img src="https://img.shields.io/badge/Backend_(Laravel)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naufall18/luxemart-web">
+    <img src="https://img.shields.io/badge/Web_App-24243e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+<p align="center"><em>Premium multi-vendor luxury marketplace with 20+ screens, clean architecture, Riverpod, live shopping, AR try-on, and admin dashboard.</em></p>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br/><b>Dart</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br/><b>Laravel</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br/><b>PHP</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br/><b>MySQL</b>
+<td width="50%">
+
+<h3 align="center">Quizyfy — Exam Platform</h3>
+<p align="center">
+  <a href="https://github.com/Naufall18/Quizyfy">
+    <img src="https://img.shields.io/badge/Mobile_(Flutter)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naufall18/Quizyfy-Backend">
+    <img src="https://img.shields.io/badge/Backend_(Laravel)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  </a>
+</p>
+<p align="center"><em>Online examination platform with real-time scoring, question bank management, analytics dashboard, and role-based access control.</em></p>
+
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br/><b>Firebase</b>
+<td width="50%">
+
+<h3 align="center">Perpustakaan Digital</h3>
+<p align="center">
+  <a href="https://github.com/Naufall18/Perpustakaan-Digital_Mobile">
+    <img src="https://img.shields.io/badge/Mobile_(Flutter)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naufall18/Perpustakaan-Digital_Backend">
+    <img src="https://img.shields.io/badge/Backend_(PHP)-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+</p>
+<p align="center"><em>Digital library management system with book cataloging, borrowing system, member management, and search functionality.</em></p>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br/><b>Git</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br/><b>GitHub</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br/><b>Postman</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br/><b>Figma</b>
+<td width="50%">
+
+<h3 align="center">MBG — Multi Platform</h3>
+<p align="center">
+  <a href="https://github.com/Naufall18/mbg-mobile">
+    <img src="https://img.shields.io/badge/Mobile_(Flutter)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naufall18/mbg-web">
+    <img src="https://img.shields.io/badge/Web_(TypeScript)-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naufall18/mbg-backend">
+    <img src="https://img.shields.io/badge/Backend_(Laravel)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  </a>
+</p>
+<p align="center"><em>Multi-platform business application with mobile, web, and backend components.</em></p>
+
 </td>
 </tr>
 </table>
+</div>
 
-<br/>
+---
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
+### 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufall18&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=a78bfa&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Naufall18&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Streak Stats" />
+</div>
 
-<a href="https://github.com/Naufall18/Quizyfy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizyfy&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Naufall18/Quizyfy-Backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naufall18&repo=Quizyfy-Backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufall18&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
-
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Naufall18&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=666666" alt="Streak Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufall18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naufall18&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=e2e8f0&area_color=302b63&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
+---
+
+### 🏆 GitHub Trophies
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufall18&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naufall18&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Naufall18/portofolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Open to internship & junior developer opportunities!**
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naufall18&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d4ff&height=120&section=footer" />
-
-<div align="center">
-  <b><i>"First, solve the problem. Then, write the code."</i></b>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
 </div>
