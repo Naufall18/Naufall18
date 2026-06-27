@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:6d28d9&height=210&section=header&text=Naufal%20Dwi%20Arifianto&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Fullstack%20%26%20Mobile%20Developer%20%7C%20Flutter%20%C2%B7%20Laravel%20%C2%B7%20React&descSize=17&descAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:6d28d9&height=210&section=header&text=Naufal%20Dwi%20Arifianto&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Fullstack%20Mobile%20Developer%20%C2%B7%20Flutter%20%C2%B7%20Laravel%20%C2%B7%20React&descSize=17&descAlignY=56" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Building+complete+products%2C+end+to+end;Flutter+%7C+Dart+%7C+Laravel+%7C+React+%7C+Clean+Architecture" alt="Typing SVG" />
@@ -153,10 +153,6 @@ const naufal = {
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naufall18&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=e2e8f0&area_color=302b63&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naufall18&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 ---
