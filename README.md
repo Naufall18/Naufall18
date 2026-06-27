@@ -29,8 +29,10 @@ const naufal = {
     education: "SMK — Rekayasa Perangkat Lunak (RPL)",
     status: "Open to internship & job opportunities",
 
+    recentlyShipped: [
+        "Gerai Jasa — Multi-Vendor Booking Platform (Mobile · Web · API) ✅",
+    ],
     currentlyBuilding: [
-        "Bookly — Multi-Vendor Booking Platform (Mobile · Web · API)",
         "Velvoria — Premium Luxury Marketplace",
     ],
 
@@ -84,8 +86,8 @@ const naufal = {
 <tr>
 <td width="50%" valign="top">
 
-### 🗓️ Bookly — Booking Platform
-> Multi-vendor service booking ecosystem: customer app, vendor & admin web dashboard, and a shared Laravel API. Built as three connected products.
+### 🗓️ Gerai Jasa — Booking Platform `✅ Completed`
+> Multi-vendor service booking ecosystem: customer app, vendor & admin web dashboard, and a shared Laravel API. Production-ready — slot locking, booking state machine & Midtrans/Xendit payments.
 
 <p>
   <a href="https://github.com/Naufall18/Gerai-Jasa-mobile"><img src="https://img.shields.io/badge/Mobile_·_Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></a>
