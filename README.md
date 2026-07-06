@@ -140,13 +140,13 @@ const naufal = {
 
 ### 🧩 More Flutter Apps
 
-<em>Focused single-purpose apps — full CRUD, live state (<code>ChangeNotifier</code>), Material 3.</em>
+<em>Offline-first (<code>shared_preferences</code>) · category insights with <code>fl_chart</code> · reactive <code>ChangeNotifier</code> state · Material 3.</em>
 
 <p>
-  <a href="https://github.com/Naufall18/taskflow"><img src="https://img.shields.io/badge/TaskFlow-3F51B5?style=flat-square&logo=flutter&logoColor=white" /></a>
-  <a href="https://github.com/Naufall18/beatbox"><img src="https://img.shields.io/badge/BeatBox-673AB7?style=flat-square&logo=flutter&logoColor=white" /></a>
-  <a href="https://github.com/Naufall18/budgetwise"><img src="https://img.shields.io/badge/BudgetWise-009688?style=flat-square&logo=flutter&logoColor=white" /></a>
-  <a href="https://github.com/Naufall18/courtside"><img src="https://img.shields.io/badge/CourtSide-FF9800?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/taskly-mobile"><img src="https://img.shields.io/badge/Taskly-3F51B5?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/soniq-mobile"><img src="https://img.shields.io/badge/Soniq-673AB7?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/fintrack-mobile"><img src="https://img.shields.io/badge/FinTrack-009688?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/courtly-mobile"><img src="https://img.shields.io/badge/Courtly-FF9800?style=flat-square&logo=flutter&logoColor=white" /></a>
 </p>
 
 </div>
