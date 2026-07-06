@@ -156,12 +156,23 @@ const naufal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufall18&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=a78bfa&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Naufall18&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Streak Stats" />
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naufall18&theme=dracula" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufall18&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naufall18&theme=dracula" alt="Top Languages" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naufall18&theme=dracula" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naufall18&theme=dracula" alt="Stats" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naufall18&theme=dracula&utcOffset=7" alt="Productive Time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Naufall18&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Streak Stats" />
 </div>
 
 <br/>
