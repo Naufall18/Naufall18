@@ -136,17 +136,32 @@ const naufal = {
 </table>
 </div>
 
+<div align="center">
+
+### 🧩 More Flutter Apps
+
+<em>Focused single-purpose apps — full CRUD, live state (<code>ChangeNotifier</code>), Material 3.</em>
+
+<p>
+  <a href="https://github.com/Naufall18/taskflow"><img src="https://img.shields.io/badge/TaskFlow-3F51B5?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/beatbox"><img src="https://img.shields.io/badge/BeatBox-673AB7?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/budgetwise"><img src="https://img.shields.io/badge/BudgetWise-009688?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://github.com/Naufall18/courtside"><img src="https://img.shields.io/badge/CourtSide-FF9800?style=flat-square&logo=flutter&logoColor=white" /></a>
+</p>
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufall18&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=a78bfa&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufall18&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=a78bfa&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Naufall18&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufall18&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufall18&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
