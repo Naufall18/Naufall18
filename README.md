@@ -26,8 +26,9 @@
 const naufal = {
     role: "Fullstack & Mobile Developer",
     location: "Indonesia 🇮🇩",
-    education: "SMK — Rekayasa Perangkat Lunak (RPL)",
-    status: "Open to internship & job opportunities",
+    education: "Informatics @ UPN \"Veteran\" Jawa Timur (1st-year)",
+    previously:  "SMKN 1 Pasuruan — Software Engineering (RPL)",
+    status: "1st-year Informatics student · open to internship & freelance",
 
     recentlyShipped: [
         "Gerai Jasa — Multi-Vendor Booking Platform (Mobile · Web · API) ✅",
