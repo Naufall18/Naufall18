@@ -173,7 +173,7 @@ const naufal = {
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Naufall18&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Streak Stats" />
+  <img width="49%" src="https://streak-stats.vercel.app?user=Naufall18&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Streak Stats" />
 </div>
 
 <br/>
