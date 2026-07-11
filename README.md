@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/github/followers/Naufall18?logo=github&style=for-the-badge&color=6d28d9&labelColor=0f0c29" alt="followers" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Naufall18&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="views" />
-<a href="https://naufall.web.id">
+<a href="https://naufaldwi.my.id">
 <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0c29" alt="portfolio" />
 </a>
 
@@ -197,7 +197,7 @@ const naufal = {
 <a href="https://wa.me/6282244089648">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="https://naufall.web.id">
+<a href="https://naufaldwi.my.id">
 <img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
