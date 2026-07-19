@@ -157,17 +157,8 @@ const naufal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naufall18&theme=dracula" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naufall18&theme=dracula" alt="Top Languages" />
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naufall18&theme=dracula" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naufall18&theme=dracula" alt="Stats" />
-  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naufall18&theme=dracula&utcOffset=7" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naufall18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=6d28d9" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufall18&layout=donut&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
@@ -180,6 +171,15 @@ const naufal = {
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naufall18&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=e2e8f0&area_color=302b63&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufall18/Naufall18/output/github-snake-dark.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/Naufall18/Naufall18/output/github-snake.svg" alt="Snake eating my contributions" />
+  </picture>
 </div>
 
 ---
